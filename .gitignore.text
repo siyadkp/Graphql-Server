@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore sensitive configuration files
+config.ini
+secrets.txt
+
+index*
