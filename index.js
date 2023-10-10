@@ -18,3 +18,5 @@ mongoose.connect(MONGODB,{useNewUriParser:true}).then(()=>{
 .then((res) => {
     console.log(`Server running at ${res.url}`)
 })
+
+console.log('hiu')
