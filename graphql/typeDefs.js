@@ -1,5 +1,5 @@
 const { gql } = require('apollo-server');
-
+//graphql functions
 module.exports = gql`
   type Recipe {
     name: String
